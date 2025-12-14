@@ -1,1 +1,9 @@
 # Project-2-in-data-analysis-and-design
+
+1. The driverPass project is project is an application that we made to implement the driver training scheduleing, and learning from an online source. Meaning the client wants to have online access to their training services from any device that is capable of going online. Particularily from a computer or mobile device. The client is DriverPass and they noticed that over 65% of the students taking the driver license exam fails. They want to implement a system that will provide the students with an online pratice exams. That is the type of online system that they wanted to design.
+
+2. What I did particularly well was actually implement the clear documentation and modeling of the whole project. Produced exceptionally clear, conside and industry standard system design documents like the diagrams, data flow and sequence diagrams. This was done under UML diagrams format.
+
+3. If i were to pick one area to improved upon in the DriverPass project, I would pick to be more detailed oriented. Something like creating a more detailed model that projects infrastructure costs over a certain amount of time.This will factor in anticipated growth rates. Like a prediction of where the DriverPass will be years down the road.
+4. I realized that the user's needs is basically a new online system to help students improve in a driving test. I just basically designed an online system and how it works. Exactly what the client was asking for. It is important to fullfill the customer needs because it defeats the whole purpose of implementing the DriverPass system if you don't design what the client wants.
+5. I would approach designing software by implementing all of it's laws and protocols. Doing everything from gathering all information to having upmost security. I would implement design patterns, testing and validation, documentation, more testing. 
